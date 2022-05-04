@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1244693854
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pz_assets
+      Dependencies: {}

@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 338829168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 103951949d59a83dac116daf90fcbd79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5b43389985263f9f46dd8d40e5593fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 469224316, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: 2140874873, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: 69470131, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: -1044604064, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: 1404409730, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: 313648218, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: bd5bc5e4b95be6e4e899d009b1c28195, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/pz_assets/icon_ability_ice.prefab
+- Assets/BundledAssets/pz_assets/icon_ability_lightning.prefab
+- Assets/BundledAssets/pz_assets/icon_ability_fire.prefab
+- Assets/BundledAssets/pz_assets/icon_skill_destruction.prefab
+- Assets/BundledAssets/pz_assets/icon_default.prefab
+- Assets/BundledAssets/pz_assets/fx_flames.prefab
+- Assets/BundledAssets/pz_assets/icon_ability_ro.prefab
+- Assets/BundledAssets/pz_assets/spell_ice_dagger.prefab
+- Assets/BundledAssets/pz_assets/icon_skill_restoration.prefab
+- Assets/BundledAssets/pz_assets/icon_skill_conjuration.prefab
+- Assets/BundledAssets/pz_assets/fx_flame_burst.prefab
+- Assets/BundledAssets/pz_assets/icon_skill_illusion.prefab
+- Assets/BundledAssets/pz_assets/icon_ability_dah.prefab
+- Assets/BundledAssets/pz_assets/icon_ability_fus.prefab
+- Assets/BundledAssets/pz_assets/spell_lightning_strike.prefab
+- Assets/BundledAssets/pz_assets/icon_skill_alteration.prefab
+Dependencies: []
